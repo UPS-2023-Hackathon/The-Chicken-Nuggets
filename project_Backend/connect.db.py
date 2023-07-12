@@ -21,7 +21,6 @@ def create_server_connection(host_name, user_name, user_password):
     return connection
 
 
-#connection = create_server_connection("localhost", "CPTAdmin", "CPT2023!")
 connection = create_server_connection("localhost", "nuggets@localhost", "Cnuggets8@")
 
 myConn = connection.cursor()
