@@ -8,7 +8,7 @@ CREATE TABLE employees(
 
     employee_ID int NOT NULL UNIQUE,
     car_ID int,
-    personal_items float,
+    personal_items decimal,
 
     PRIMARY KEY(employee_ID)
 
