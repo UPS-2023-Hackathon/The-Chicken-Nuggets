@@ -2,9 +2,9 @@ CREATE DATABASE IF NOT EXISTS The_Chicken_Nuggets;
 
 USE The_Chicken_Nuggets;
 
-DROP TABLE IF EXISTS package_sizes;
+DROP TABLE IF EXISTS package_table;
 
-CREATE TABLE package_sizes(
+CREATE TABLE package_table(
 
     package_ID int NOT NULL UNIQUE,
     package_type int,
@@ -14,8 +14,4 @@ CREATE TABLE package_sizes(
     volume decimal,
 
     PRIMARY KEY(package_ID)
-
 );
-
-INSERT INTO package_sizes
-VALUES (1, 1, 1, 2, 2, 4);
