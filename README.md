@@ -1,4 +1,4 @@
-# Team 8 - The Chicken Nuggets: Marzana Akhtar, Rithvin Koneru, Ryan Varca, Marcus Vescio, Daniel Xiong
+## Team 8 - The Chicken Nuggets: Marzana Akhtar, Rithvin Koneru, Ryan Varca, Marcus Vescio, Daniel Xiong
 
 ## Project Info:
 
