@@ -16,24 +16,24 @@ CREATE TABLE IF NOT EXISTS vehicle_data(
     PRIMARY KEY (car_ID)
 );
 
-insert into vehicle_data values(1,1,1,14,0);
-insert into vehicle_data values(2,1,2,17,2);
-insert into vehicle_data values(3,1,3,14,0);
-insert into vehicle_data values(4,1,4,15,0);
-insert into vehicle_data values(5,1,5,17,2);
-insert into vehicle_data values(6,1,6,13,0);
-insert into vehicle_data values(7,2,1,12,0);
-insert into vehicle_data values(8,2,2,17,1);
-insert into vehicle_data values(9,2,3,15,0);
-insert into vehicle_data values(10,2,4,16,1);
-insert into vehicle_data values(11,2,5,14,2);
-insert into vehicle_data values(12,2,6,13,0);
-insert into vehicle_data values(13,3,1,13,1);
-insert into vehicle_data values(14,3,2,12,2);
-insert into vehicle_data values(15,3,3,15,0);
-insert into vehicle_data values(16,3,4,16,2);
-insert into vehicle_data values(17,3,5,14,0);
-insert into vehicle_data values(18,3,6,16,0);
-insert into vehicle_data values(19,4,1,16,1);
-insert into vehicle_data values(20,4,2,12,1);
+insert into vehicle_data values(1,"Subaru","Outback ",14,0);
+insert into vehicle_data values(2,"Subaru","Forester",17,2);
+insert into vehicle_data values(3,"Ford","Escape",14,0);
+insert into vehicle_data values(4,"Honda","Accord",15,0);
+insert into vehicle_data values(5,"Jeep","Wrangler",17,2);
+insert into vehicle_data values(6,"Jeep","Grand Cherokee",13,0);
+insert into vehicle_data values(7,"Toyota","Highlander",12,0);
+insert into vehicle_data values(8,"Ford","Explorer",17,1);
+insert into vehicle_data values(9,"Nissan","Rogue",15,0);
+insert into vehicle_data values(10,"Toyota","Corolla",16,1);
+insert into vehicle_data values(11,"Toyota","Tacoma",14,2);
+insert into vehicle_data values(12,"GMC","Sierra",13,0);
+insert into vehicle_data values(13,"Honda","Civic",13,1);
+insert into vehicle_data values(14,"Chevrolet","Equinox",12,2);
+insert into vehicle_data values(15,"Toyota","Camry",15,0);
+insert into vehicle_data values(16,"Honda","CR-V",16,2);
+insert into vehicle_data values(17,"Toyota","RAV4",14,0);
+insert into vehicle_data values(18,"Ram","Pickup",16,0);
+insert into vehicle_data values(19,"Chevrolet","Silverado",2,1);
+insert into vehicle_data values(20,"Ford","F-Series",50,1);
 

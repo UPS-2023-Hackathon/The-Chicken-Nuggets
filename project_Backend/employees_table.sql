@@ -14,11 +14,11 @@ CREATE TABLE employees(
     FOREIGN KEY(car_ID) REFERENCES vehicle_data(car_ID)
 );
 
-insert into employees values(1,12,0);
-insert into employees values(2,15,1);
-insert into employees values(3,3,2);
-insert into employees values(4,16,2);
-insert into employees values(5,3,0);
+insert into employees values(8197269,12,0);
+insert into employees values(8196872,15,1);
+insert into employees values(8196772,3,2);
+insert into employees values(8196874,16,2);
+insert into employees values(8196852,3,0);
 insert into employees values(6,14,2);
 insert into employees values(7,16,2);
 insert into employees values(8,1,1);
