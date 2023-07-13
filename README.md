@@ -1,5 +1,6 @@
-## Project Info
 # Team 8 - The Chicken Nuggets: Marzana Akhtar, Rithvin Koneru, Ryan Varca, Marcus Vescio, Daniel Xiong
+
+## Project Info:
 
 Our project is a prototyped mobile-app solution for the maximum package volume problem for PVDs(personal vehicle drivers) and their vehicles. The frontend interface can be seen in Hackathon 2023.png file within the Figma Assets file. A PVD is able to download the app and login with their employee credentials. From there, they are directed to the home page where they can view their registered vehicles and have the ability to calculate what packages are available for pick-up. The calculate option provides a list of packages with their unique ID which the user can view, where these packages are assigned through the user's selected available vehicle space. The user is also able to register new vehicles within the app. 
 
